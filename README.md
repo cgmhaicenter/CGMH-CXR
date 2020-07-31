@@ -16,3 +16,7 @@ Chest X-ray image data is often used in routine medical operations, and AI algor
 # input image size (1024 *1024) 
 <img src= https://github.com/cgmhaicenter/CGMH-CXR/blob/master/chest%20x-ray-example.png height="150" width="155" />
 
+# NLP process outcome  
+<img src= https://github.com/cgmhaicenter/CGMH-CXR/blob/master/disease%20classification.jpg height="150" width="80" />
+
+# AI Model inference reuslts
