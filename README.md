@@ -8,5 +8,5 @@ Chest X-ray image data is often used in routine medical operations, and AI algor
 
 
 
-<img src= https://github.com/cgmhaicenter/CGMH-CXR/blob/master/chest%20x-ray-example.png height="150" width="80" />
+<img src= https://github.com/cgmhaicenter/CGMH-CXR/blob/master/chest%20x-ray-example.png height="150" width="155" />
 
