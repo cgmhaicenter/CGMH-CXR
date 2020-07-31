@@ -12,12 +12,13 @@ Chest X-ray image data is often used in routine medical operations, and AI algor
 2.	The doctor will adjust the classification results of the NLP algorithm based on the X-ray report.
 3.	The current Chest x-ray AI algorithm has an accuracy rate of over 80%
 
+# NLP process outcome  
+<img src= https://github.com/cgmhaicenter/CGMH-CXR/blob/master/disease%20classification.jpg height="400" width="700" />
+
 
 # input image size (1024 *1024) 
 <img src= https://github.com/cgmhaicenter/CGMH-CXR/blob/master/chest%20x-ray-example.png height="150" width="155" />
 
-# NLP process outcome  
-<img src= https://github.com/cgmhaicenter/CGMH-CXR/blob/master/disease%20classification.jpg height="400" width="700" />
 
 # AI Model inference reuslts
 
