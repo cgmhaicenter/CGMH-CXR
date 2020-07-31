@@ -13,6 +13,6 @@ Chest X-ray image data is often used in routine medical operations, and AI algor
 3.	The current Chest x-ray AI algorithm has an accuracy rate of over 80%
 
 
-
+# input image size (1024 *1024) 
 <img src= https://github.com/cgmhaicenter/CGMH-CXR/blob/master/chest%20x-ray-example.png height="150" width="155" />
 
