@@ -17,7 +17,7 @@ Chest X-ray image data is often used in routine medical operations, and AI algor
 
 
 # NLP process outcome  
-<img src= https://github.com/cgmhaicenter/CGMH-CXR/blob/master/disease%20classification.jpg height="300" width="600" />
+<img src= https://github.com/cgmhaicenter/CGMH-CXR/blob/master/disease%20classification.jpg height="300" width="700" />
 
 Figure1: Output of NLP Diseases Classification 
 
