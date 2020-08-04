@@ -39,3 +39,7 @@ Fig3. AI model X-ray classification metrics
 
 <img src= https://github.com/cgmhaicenter/CGMH-CXR/blob/master/inference_result.png height="300" width="300" />
 Fig4. AI Mode’s Inference Result 
+
+
+# Contact
+If you have any general doubt about our data which may be of interest for other researchers, please use the public issues section on this GitHub repo. Alternatively, drop us an e-mail at mailto: cgmhailab@gmail.com.
