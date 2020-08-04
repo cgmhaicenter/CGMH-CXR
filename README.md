@@ -1,5 +1,5 @@
 # CGMH-CXR
-This project contains NLP disease classification outcome, and the preliminary result of annotation,to demonstration the procedure of medical AI development process and application into medicine fields  
+This project contains NLP disease classification outcome, and the preliminary result of annotation,to demonstration the procedure of medical AI development process and application into medicine fields.  
 
 
 # Introduction:
@@ -18,7 +18,7 @@ Chest X-ray image data is often used in routine medical operations, and AI algor
 
 # NLP process outcome  
 <img src= https://github.com/cgmhaicenter/CGMH-CXR/blob/master/disease%20classification.jpg height="200" width="700" />
-Figure1: Output of NLP Diseases Classification 
+Fig1. Output of NLP Diseases Classification 
 
 # input image size (1024 *1024) 
 <img src= https://github.com/cgmhaicenter/CGMH-CXR/blob/master/chest%20x-ray-example.png height="150" width="155" />
@@ -29,7 +29,7 @@ Fig2. Input image size :1024 *1024
 <img src= https://github.com/cgmhaicenter/CGMH-CXR/blob/master/metric.png height="300" width="300" />
 Test Accuracy: 0.9327  Test AUC: 0.9733  TP: 534  FP: 21  TN: 145  FN: 28 Sensitivity: 0.9502  Specificity: 0.8735 Precision: 96.22%  Recall: 95.02%  F1: 0.9561 PPV: 0.9622  NPV: 0.8382
 
-Fig3.AI model X-ray classification metrics
+Fig3. AI model X-ray classification metrics
 
 
 # AI Model inference reuslts
