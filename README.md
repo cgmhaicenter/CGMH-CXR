@@ -28,7 +28,7 @@ Fig2. Input image size :1024 *1024
 
 # AI Model performance metrics
 
-
+<img src= https://github.com/cgmhaicenter/CGMH-CXR/blob/master/metric.png height="150" width="155" />
 
 
 # AI Model inference reuslts
