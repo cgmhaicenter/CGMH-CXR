@@ -8,7 +8,7 @@ Chest X-ray image data is often used in routine medical operations, and AI algor
 
 # Data processing step:
 
-1.	In the first Data labeling was use NLP tools to pre-label 14 types of chest diseases. The NPL tools label results are shown in Fig1 
+1.	In the first Data labeling was use NLP tools to pre-label 14 types of chest diseases. The NPL tools label results are shown in Fig1. 
 2.	Second，The preliminary classify results was review by a board of radiologist , The doctor will adjust the classification results of 
     the NLP algorithm based on the X-ray report  to determine the final labels, This procedure will improve about 50 % annotation 
     efficiency, and reduce annotation difficulty.
