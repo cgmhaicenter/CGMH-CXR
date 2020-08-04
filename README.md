@@ -35,6 +35,6 @@ Test Accuracy: 0.9327  Test AUC: 0.9733  TP: 534  FP: 21  TN: 145  FN: 28 Sensit
 
 # AI Model inference reuslts
 
-<img src= https://github.com/cgmhaicenter/CGMH-CXR/blob/master/inference_result.png height="400" width="700" />
+<img src= https://github.com/cgmhaicenter/CGMH-CXR/blob/master/inference_result.png height="200" width="200" />
 
 Fig4. AI Mode’s Inference Result 
